@@ -1,0 +1,3 @@
+Pacient: P001
+Tep: 78
+SpO2: 97
