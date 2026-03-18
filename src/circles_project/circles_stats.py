@@ -21,3 +21,6 @@ def has_intersection(circle1, circle2):
         print(":)")
 
 print(euclid_distance(1, 3, 7, 9))
+
+circle_1 = {"x": 0, "y": 0, "r": 2}
+circle_2 = {"x": 3, "y": 0, "r": 1}
